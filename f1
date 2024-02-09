@@ -1,4 +1,8 @@
 file2
 first file in branch 3
 hi
+<<<<<<< HEAD
 bye bye
+=======
+hello world
+>>>>>>> 43ea8e317d089951f08bf07aec52fefcbf7db7fc
